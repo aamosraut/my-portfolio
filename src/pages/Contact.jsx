@@ -7,7 +7,7 @@ const Contact = () => {
   const onSubmit = async (event) => {
     event.preventDefault();
     const formData = new FormData(event.target);
-    formData.append("access_key", "28679d85-dfe9-4c22-898d-bfd7f235ad82");
+    formData.append("access_key", import.meta.env.VITE_WEB3FORM_API_KEY);
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
@@ -67,7 +67,7 @@ const Contact = () => {
             </div>
             <div>
               <h3 className="font-bold text-lg">Email</h3>
-              <p className="text-sm mt-1">contactanushadhikari@gmail.com</p>
+              <p className="text-sm mt-1">contactamosraut77@gmail.com</p>
             </div>
           </div>
         </div>

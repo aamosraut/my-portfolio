@@ -59,7 +59,7 @@ const About = () => {
               <div className="p-2 bg-gray-100 rounded-full">
                 <Mail size={16} />
               </div>
-              <span>contactanushadhikari@gmail.com</span>
+              <span>contact amosraut77@gmail.com</span>
             </div>
             <div className="flex items-center space-x-3">
               <div className="p-2 bg-gray-100 rounded-full">

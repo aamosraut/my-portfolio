@@ -51,7 +51,7 @@ const Sidebar = () => {
       <div className="flex flex-col space-y-6">
         <div className="flex space-x-4">
           <a
-            href="https://github.com/AnushAdk04"
+            href="https://github.com/aamosraut"
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer"
@@ -59,7 +59,7 @@ const Sidebar = () => {
             <Github size={16} />
           </a>
           <a
-            href="https://www.linkedin.com/in/anushadhikari/"
+            href="https://www.linkedin.com/in/aamosraut/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer"
@@ -68,7 +68,7 @@ const Sidebar = () => {
           </a>
         </div>
         <div className="text-xs text-gray-500">
-          <p>Copyright ©2026 Anush Adhikari</p>
+          <p>Copyright ©2026 Aamos Raut</p>
           <p>All right reserved.</p>
         </div>
       </div>

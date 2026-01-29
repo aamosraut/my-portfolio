@@ -35,7 +35,7 @@ const Home = () => {
             </div>
             <div className="flex items-center space-x-3">
               <Mail size={20} />
-              <span>contactanushadhikari@gmail.com</span>
+              <span>contactamosraut77@gmail.com</span>
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ const Home = () => {
           {/* Profile Image */}
           <img
             src={ProfileImage}
-            alt="Anush Adhikari"
+            alt="Aamos Raut"
             className="max-h-[80vh] object-cover"
           />
         </div>
